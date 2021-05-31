@@ -1,7 +1,7 @@
 
-![Satvik's github Stats](https://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
+![Satvik's github Stats](http://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-1203&layout=compact&theme=tokyonight)
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=satvik-1203&layout=compact&theme=tokyonight)
 
 
 
@@ -13,7 +13,7 @@
 
 ### Languages ###
 
-- JS
+- JAVASCRIPT
 - JAVA
 - C
 - Html
@@ -25,7 +25,7 @@
 - React.js
 - Node.js
 - Express.js
-
+- Framer Motion
 
 
 ### TOOLS ###
