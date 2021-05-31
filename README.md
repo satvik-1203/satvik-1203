@@ -36,7 +36,7 @@
 - Framer Motion
 
 
-### Database ###
+### Databases ###
 
 - Mongodb
 
