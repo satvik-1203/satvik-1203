@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**satvik-1203/satvik-1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JS
+- JAVA
+- C
+- Html
+- Css
+
+
+### Frameworks ###
+
+- React.js
+- Node.js
+- Express.js
+- Figma
+- Affinity designer 
+
+
+### TOOLS ###
+
+- VIM
+- VS Code
+- Intellij
+- Mongodb
+- Sass
+
+
+#### Current projects ###
+
+- Cloning spotify with Node.js, React.js, and Mongodb
+
+
+### Finished projects ###
+
+- A music player
+- dynamic rendering with help of access tokens
+- Discord bot with Node.js
+
+
+### Hobbies ###
+
+- Anime
+- Kdrama
+- Walking 
+
+
+### Extras ###
+
+- I know I don't have anything related to data science but hopfully it gets here soon.
+
