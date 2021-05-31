@@ -16,8 +16,8 @@
 - JAVASCRIPT
 - JAVA
 - C
-- Html
-- Css
+- HTML
+- CSS
 
 
 ### Frameworks / Libraries ###
