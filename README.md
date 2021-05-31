@@ -37,7 +37,7 @@
 
 
 
-### TOOLS ###
+### Tools ###
 
 - VIM
 - VS Code
