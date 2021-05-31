@@ -36,7 +36,7 @@
 ### Finished projects ###
 
 - A music player
-- dynamic rendering with help of access tokens
+- Dynamic rendering with access tokens
 - Discord bot with Node.js
 
 
