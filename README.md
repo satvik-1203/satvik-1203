@@ -9,7 +9,7 @@
 - Css
 
 
-### Frameworks ###
+### Frameworks/libraries ###
 
 - React.js
 - Node.js
