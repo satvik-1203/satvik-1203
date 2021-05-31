@@ -58,3 +58,11 @@
 
 - I know I don't have anything related to data science but hopfully it gets here soon.
 
+
+
+![Satvik's github Stats](https://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
+
+
+
+
+
