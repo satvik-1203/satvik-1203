@@ -8,8 +8,8 @@
 
 ### Education ###
 
--  Georgia State University, undergraduate level, majoring in Computer Science (2020 - Exepected Graduation 2024)
--  The Hacking School, Bootcamp (May - September 2021)
+-  Georgia State University, undergraduate level, majoring in Computer Science <wbr>(2020 - Exepected Graduation 2024)<wbr>
+-  The Hacking School, Bootcamp <wbr>(May - September 2021)<wbr>
 
 
 ### Skills ###
