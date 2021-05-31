@@ -14,8 +14,7 @@
 - React.js
 - Node.js
 - Express.js
-- Figma
-- Affinity designer 
+
 
 
 ### TOOLS ###
@@ -25,6 +24,8 @@
 - Intellij
 - Mongodb
 - Sass
+- Figma
+- Affinity designer 
 
 
 #### Current projects ###
