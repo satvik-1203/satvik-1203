@@ -5,8 +5,11 @@
 
 ![Satvik's github Stats](http://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
 
-![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=satvik-1203&layout=compact&theme=tokyonight)
 
+### Education ###
+
+-  Georgia State University, majoring in Computer Science (Exepected Graduation 2024)
+-  The Hacking School (Bootcamp in 2021)
 
 
 ### Skills ###
