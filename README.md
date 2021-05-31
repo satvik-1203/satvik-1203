@@ -36,13 +36,16 @@
 - Framer Motion
 
 
+### Database ###
+
+- Mongodb
+
 
 ### Tools ###
 
 - VIM
 - VS Code
 - Intellij
-- Mongodb
 - Sass
 - Figma
 - Affinity designer 
