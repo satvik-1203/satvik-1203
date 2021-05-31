@@ -32,7 +32,9 @@
 - React.js
 - Node.js
 - Express.js
+- Redux
 - Framer Motion
+
 
 
 ### TOOLS ###
