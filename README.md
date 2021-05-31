@@ -1,4 +1,6 @@
 
+![Satvik's github Stats](https://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
+
 
 ### Skills ###
 
@@ -60,7 +62,6 @@
 
 
 
-![Satvik's github Stats](https://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
 
 
 
