@@ -2,8 +2,8 @@
 
 <h1>My profile</h1>
 
-
-![Satvik's github Stats](http://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
+<!-- 
+![Satvik's github Stats](http://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight) -->
 
 
 ### Education ###
