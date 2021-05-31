@@ -1,5 +1,11 @@
 
 
+### Skills ###
+
+- Leadership
+- Fast learner
+- Helper
+
 ### Languages ###
 
 - JS
@@ -45,6 +51,7 @@
 - Anime
 - Kdrama
 - Walking 
+- Spend time with the loved once
 
 
 ### Extras ###
