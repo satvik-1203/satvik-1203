@@ -28,7 +28,7 @@
 - Affinity designer 
 
 
-#### Current projects ###
+### Current projects ###
 
 - Cloning spotify with Node.js, React.js, and Mongodb
 
