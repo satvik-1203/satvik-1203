@@ -20,7 +20,7 @@
 - Css
 
 
-### Frameworks/libraries ###
+### Frameworks / Libraries ###
 
 - React.js
 - Node.js
