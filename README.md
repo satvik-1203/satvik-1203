@@ -1,6 +1,9 @@
 
 ![Satvik's github Stats](https://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-1203&layout=compact&theme=tokyonight)
+
+
 
 ### Skills ###
 
