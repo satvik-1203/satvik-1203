@@ -48,7 +48,7 @@
 
 ### Current projects ###
 
-- Cloning spotify with Node.js, React.js, and Mongodb
+- Cloning spotify with Node.js, Express.js, React.js, and Mongodb
 
 
 ### Finished projects ###
