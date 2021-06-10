@@ -68,14 +68,14 @@
 - Anime
 - Kdrama
 - Walking 
-- Spend time with the loved once
+- Spend time with the loved ones
 
 
 ### Extras / Fun Facts ###
 
 - I know I don't have anything related to data science but hopfully it gets here soon.
 - I hit 75 WPM recently
-
+- Tried TypesScript, kept the repo in github
 
 
 
