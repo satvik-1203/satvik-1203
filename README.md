@@ -53,11 +53,12 @@
 
 ### Current projects ###
 
-- Cloning spotify with Node.js, Express.js, React.js, and Mongodb
+
 
 
 ### Finished projects ###
 
+- Cloning spotify with Node.js, Express.js, React.js, and Mongodb
 - A music player with React.js
 - Dynamic rendering with access tokens
 - Discord bot with Node.js
