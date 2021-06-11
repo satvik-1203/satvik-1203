@@ -48,7 +48,14 @@
 - Intellij
 - Sass
 - Figma
+
+
+### Learning
+
+- SQL
+- Socket.io
 - Affinity designer 
+- A bit of typescript here and there
 
 
 ### Current projects ###
@@ -79,9 +86,4 @@
 - Tried TypesScript, kept the repo in github
 
 
-### Learning
-
-- SQL
-- Socket.io
-- A bit of typescript here and there
 
