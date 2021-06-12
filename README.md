@@ -46,6 +46,7 @@
 - VIM
 - VS Code
 - Intellij
+- Git & GitHub
 - Sass
 - Figma
 
