@@ -52,15 +52,14 @@
 
 ### Learning
 
-- SQL
 - Socket.io
 - Affinity designer 
-- A bit of typescript here and there
+- Typescript
 
 
 ### Current projects ###
 
-
+- Full stack chat app with MERN stack and socket.io
 
 
 ### Finished projects ###
