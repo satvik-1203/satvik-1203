@@ -59,7 +59,7 @@
 
 ### Current projects ###
 
-- Full stack chat app with MERN stack and socket.io
+- Full stack chat app with MERN stack and socket.io, used figma for prototyping.
 
 
 ### Finished projects ###
