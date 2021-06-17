@@ -51,14 +51,14 @@
 
 ### Learning
 
+- Typescript
 - Socket.io
 - Affinity designer 
-- Typescript
 
 
 ### Current projects ###
 
-- Full stack chat app with MERN stack and socket.io, used figma for prototyping.
+- Full stack chat app with MERN stack and socket.io (TypeScript), used figma for frontend and backend prototyping.
 
 
 ### Finished projects ###
@@ -82,7 +82,7 @@
 - I know I don't have anything related to data science but hopfully it gets here soon.
 - I hit 75 WPM recently
 - Tried TypesScript, kept the repo in github
-- So far loving TypeScript
+
 
 
 
