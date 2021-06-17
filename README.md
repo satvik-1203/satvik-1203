@@ -23,8 +23,6 @@
 - JAVASCRIPT
 - JAVA
 - C
-- HTML
-- CSS
 
 
 ### Frameworks / Libraries ###
