@@ -58,7 +58,7 @@
 
 ### Current projects ###
 
-- Full stack chat app with MERN stack and socket.io (TypeScript), used figma for frontend and backend prototyping.
+- Full stack chat app with MERN stack and socket.io (TypeScript), using figma for frontend and backend prototyping.
 
 
 ### Finished projects ###
