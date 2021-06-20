@@ -79,7 +79,6 @@
 
 ### Extras / Fun Facts ###
 
-- I know I don't have anything related to data science but hopfully it gets here soon.
 - I hit 75 WPM recently
 - Tried TypesScript, kept the repo in github
 
