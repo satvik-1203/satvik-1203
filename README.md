@@ -5,6 +5,7 @@
 <!-- 
 ![Satvik's github Stats](http://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight) -->
 
+<!-- ![Satvik's github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-1203&show_icons=true&hide_border=true&layout=compact&langs_count=8) -->
 
 ### Education ###
 
