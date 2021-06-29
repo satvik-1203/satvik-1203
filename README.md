@@ -54,7 +54,7 @@
 
 - Typescript
 - Socket.io
-- Affinity designer 
+- Rust
 
 
 ### Current projects ###
