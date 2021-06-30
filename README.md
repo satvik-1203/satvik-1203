@@ -82,7 +82,7 @@
 ### Extras / Fun Facts ###
 
 - I hit 75 WPM recently
-- Tried TypesScript, kept the repo in github
+
 
 
 
