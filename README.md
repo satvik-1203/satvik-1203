@@ -22,15 +22,16 @@
 ### Languages ###
 
 - JAVASCRIPT
+- TYPESCRIPT
 - JAVA
 - C
 
 
 ### Frameworks / Libraries ###
 
-- React.js
-- Node.js
-- Express.js
+- React
+- Node
+- Express
 - Redux
 - Framer Motion
 
