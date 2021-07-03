@@ -53,7 +53,6 @@
 
 ### Learning
 
-- Typescript
 - Socket.io
 - Rust
 
