@@ -34,6 +34,7 @@
 - Express
 - Redux
 - Framer Motion
+- Tailwind-Css
 
 
 ### Databases ###
