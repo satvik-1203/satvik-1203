@@ -21,8 +21,8 @@
 
 ### Languages ###
 
-- JAVASCRIPT
 - TYPESCRIPT
+- JAVASCRIPT
 - JAVA
 - C
 
@@ -32,8 +32,6 @@
 - React
 - Node
 - Express
-- Redux
-- Framer Motion
 - Tailwind-Css
 
 
@@ -54,7 +52,6 @@
 
 ### Learning
 
-- Socket.io
 - Rust
 
 
