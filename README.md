@@ -46,7 +46,6 @@
 - VS Code
 - Intellij
 - Git & GitHub
-- Sass
 - Figma
 
 
@@ -75,11 +74,6 @@
 - Kdrama
 - Walking 
 - Spend time with the loved ones
-
-
-### Extras / Fun Facts ###
-
-- I hit 75 WPM recently
 
 
 
