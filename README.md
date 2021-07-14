@@ -56,6 +56,7 @@
 
 ### Current projects ###
 
+- Personal Portfolio
 - Full stack chat app with MERN stack and socket.io (TypeScript), using figma for frontend and backend prototyping.
     https://www.figma.com/file/bgDdwBIRi4toVQjkUTq1UC/Untitled?node-id=0%3A1
 
