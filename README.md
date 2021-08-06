@@ -2,7 +2,7 @@
 <h1>My profile</h1>
 
 
- <p align="left" display="hidden"> <img src="https://komarev.com/ghpvc/?username=satvik-1203" alt="mannadamay12" /> </p>
+ <p align="left" display="hidden"> <img src="https://komarev.com/ghpvc/?username=satvik-1203" alt="satvik:)" /> </p>
 
 
 
