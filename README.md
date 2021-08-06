@@ -2,6 +2,8 @@
 <h1>My profile</h1>
 
 
+ <p align="left" display="hidden"> <img src="https://komarev.com/ghpvc/?username=satvik-1203" alt="mannadamay12" /> </p>
+
 
 
 <!-- ![Satvik's github Stats](http://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight&count_private=true)  -->
@@ -75,9 +77,7 @@
 
 
 
-<details>
-  <summary></summary>
-  <p align="left" display="hidden"> <img src="https://komarev.com/ghpvc/?username=satvik-1203" alt="mannadamay12" /> </p>
 
-</details>
+
+
 
