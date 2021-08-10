@@ -46,8 +46,6 @@
 ### Tools ###
 
 - VIM
-- VS Code
-- Intellij
 - Git & GitHub
 - ZSH 
 - Figma & Affinity desginer
