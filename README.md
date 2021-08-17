@@ -5,6 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=satvik-1203" alt="satvik:)" />
 
 <p>Hello, this is Satvik Seeram and my portfolio can be found <a href="https://isatvik.com/" target="_blank" ><strong>Here</strong></a>
+
  
 
 <!-- ![Satvik's github Stats](http://github-readme-stats.vercel.app/api?username=satvik-1203&theme=tokyonight&count_private=true)  -->
@@ -79,7 +80,7 @@
 - Cloned spotify using MERN stack
 - Binary Discord Bot
 - Full stack chat app using MERN stack and typescript
-- others can be found in my portolfio <a href="https://isatvik.com/" target="_blank" ><strong>Here</strong></a>
+- Others can be found in my portolfio <a href="https://isatvik.com/" target="_blank" ><strong>Here</strong></a>
 
 
 
