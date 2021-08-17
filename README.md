@@ -69,7 +69,7 @@
 
 ### Current projects ###
 
- <-- Free bird just living live -->
+ <-- Free bird just living life -->
 
 
 ### Finished projects ###
