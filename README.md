@@ -18,7 +18,7 @@
 -  The Hacking School, Bootcamp (MERN stack) <wbr>(May - September 2021)<wbr>
  
 
-### Hobbioes ###
+### Hobbies ###
 
 - Kdrama & Anime
 - Coding ig? 
