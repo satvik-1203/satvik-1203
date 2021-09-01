@@ -23,7 +23,6 @@
 - Kdrama & Anime
 - Coding ig? 
 - Traveling 
-- Typing Tests 
  
  <!-- 
 
