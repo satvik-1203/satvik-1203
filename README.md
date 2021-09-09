@@ -70,7 +70,7 @@
 
 ### Current projects ###
 
- <-- Free bird just living life -->
+- Learning Rust 
 
 
 ### Finished projects ###
