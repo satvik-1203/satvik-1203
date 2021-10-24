@@ -26,7 +26,7 @@
  
 ### Current projects 
  
-- Currently working on a ds-visualizer. https://dsvisualizer.isatvik.com/. To contribute, ping me a message. In need to for a UI desginer 
+- Currently working on a ds-visualizer. https://dsvisualizer.isatvik.com/. To contribute, ping me. In need for a UI desginer 
 
 
 
