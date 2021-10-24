@@ -24,20 +24,9 @@
 - Coding ig? 
 - Traveling 
  
+### Current projects 
  
-### Current projects ###
-
-- Learning Rust 
-
-
-### Finished projects ###
-
-- Personal Portfolio
-- Blog page using NextJS
-- Cloned spotify using MERN stack
-- Binary Discord Bot
-- Full stack chat app using MERN stack and typescript
-- Others can be found in my portolfio <a href="https://isatvik.com/" target="_blank" ><strong>Here</strong></a>
+- Currently working on a ds-visualizer. https://dsvisualizer.isatvik.com/. To contribute, ping me a message. In need to for a UI desginer 
 
 
 
