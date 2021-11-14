@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=satvik-1203" alt="satvik:)" />
 
-<p>Hello, this is Satvik Seeram and my portfolio can be found <a href="https://isatvik.com/" target="_blank" ><strong>Here</strong></a>
+<!-- <p>Hello, this is Satvik Seeram and my portfolio can be found <a href="https://isatvik.com/" target="_blank" ><strong>Here</strong></a> -->
 
  
 
