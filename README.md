@@ -26,7 +26,7 @@
  
 ### Current projects 
  
-- Currently working on a ds-visualizer. https://dsvisualizer.isatvik.com/.
+- Currently working on a ds-visualizer. https://dsvisualizer.isatvik.com/
 
 
 
