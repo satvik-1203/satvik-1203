@@ -1,8 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=satvik-1203" alt="satvik:)" />
+# Hello there 🙋‍♂️
 
-<p>Hello, this is Satvik and click <a href="https://isatvik.com/" target="_blank" ><strong>Here</strong></a> to learn more about me.
+Passionate about UI/UX and building softwarte. I try to leetcode daily and write a blog every other week. [Check it out](https://isatvik.com/)
 
- 
 ### Education ###
 
 -  Georgia State University, undergraduate level, majoring in Computer Science <wbr>(2020 - Exepected Graduation 2024)<wbr>
@@ -11,11 +10,5 @@
 ### Hobbies ###
 
 - Kdrama & Anime
-- Coding ig? 
+- Gamming
 - Traveling 
- 
-
-
-
-
-
