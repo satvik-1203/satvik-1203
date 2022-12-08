@@ -1,6 +1,6 @@
 # Hello there 🙋‍♂️
 
-Passionate about UI/UX and building softwarte. I try to leetcode daily and write a blog every other week. [Check it out](https://isatvik.com/)
+Passionate about UI/UX and building software. I try to leetcode daily and write a blog every other week. [Check it out](https://isatvik.com/)
 
 ### Education ###
 
