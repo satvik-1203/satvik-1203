@@ -4,8 +4,8 @@ Passionate about UI/UX and building software. I try to leetcode daily and write 
 
 ### Education ###
 
--  Georgia State University, undergraduate level, majoring in Computer Science <wbr>(2020 - Expected Graduation 2024)<wbr>
--  The Hacking School, Bootcamp (MERN stack) <wbr>(May - October 2021)<wbr>
+-  New York University, Entrepreneurship and Computer Science 
+-  The Hacking School, Bootcamp (MERN stack) 
  
 ### Hobbies ###
 
